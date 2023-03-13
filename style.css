@@ -64,3 +64,18 @@ header {
     width: 100%;
     pointer-events: none;
 }
+
+.sec  {
+    position: relative;
+    padding: 100px;
+    background: #040228; 
+}
+
+.sec h2{
+    font-size: 3em;
+    color: #fff;
+    margin-bottom: 10px;
+
+}
+
+
