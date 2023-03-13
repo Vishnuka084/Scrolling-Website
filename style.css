@@ -9,7 +9,7 @@
 }
 
 body {
-    background: linear-gradient(#040228,#0075c7);
+    background: linear-gradient(#040228 0%,#0075c7 40%);
     min-height: 100vh;
     overflow-x: hidden;
 
@@ -29,7 +29,7 @@ header {
 
 .logo {
     color: #fff;
-    font-size: 2em;
+    font-size: 5em;
     cursor: default;
 }
 
@@ -44,7 +44,7 @@ header {
 
 
 .navbar a:hover, 
-.navbar a:active{
+.navbar a.active{
     background: #00a3b9;
 }
 
