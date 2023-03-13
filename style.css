@@ -43,7 +43,8 @@ header {
 }
 
 
-.navbar a:hover {
+.navbar a:hover, 
+.navbar a:active{
     background: #00a3b9;
 
 }
