@@ -79,3 +79,13 @@ header {
 }
 
 
+.sec h2:nth-child(2) {
+    font-size: 2em;
+
+}
+
+.sec p {
+    font-size: 1em;
+    color: #fff;
+    font-weight: 300;
+}
